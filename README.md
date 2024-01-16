@@ -24,7 +24,7 @@ This Python script is designed to extract table data from a PDF file and save it
     pip install -r requirements.txt
     ```
 
-3. Download the pre-trained model and save it in the `models` folder. You can find the model [here]([https://example.com/path/to/model](https://drive.google.com/drive/folders/16HF1wYXj3d3zzEcZUEk-svwaNi0nhJGc?usp=sharing)).
+3. Download the pre-trained model and save it in the `models` folder. You can find the model [[here](https://example.com/path/to/model](https://drive.google.com/drive/folders/16HF1wYXj3d3zzEcZUEk-svwaNi0nhJGc?usp=sharing)https://example.com/path/to/model](https://drive.google.com/drive/folders/16HF1wYXj3d3zzEcZUEk-svwaNi0nhJGc?usp=sharing]).
 
 ## Usage
 
