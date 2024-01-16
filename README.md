@@ -30,4 +30,4 @@ This Python script is designed to extract table data from a PDF file and save it
 Run the script with the following command:
 
 ```bash
-python main.py --pdf_name 'Input.pdf'
+python main.py 'Input.pdf'
