@@ -1,4 +1,4 @@
-# PDF to CSV Converter
+# PDF to CSV (Table Data) 
 
 ## Overview
 
@@ -18,20 +18,13 @@ This Python script is designed to extract table data from a PDF file and save it
     cd pdf-to-csv-converter
     ```
 
-2. Create a virtual environment (optional but recommended):
-
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows, use 'venv\Scripts\activate'
-    ```
-
-3. Install the required dependencies:
+2. Install the required dependencies:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-4. Download the pre-trained model and save it in the `models` folder. You can find the model [here](https://example.com/path/to/model).
+3. Download the pre-trained model and save it in the `models` folder. You can find the model [here]([https://example.com/path/to/model](https://drive.google.com/drive/folders/16HF1wYXj3d3zzEcZUEk-svwaNi0nhJGc?usp=sharing)).
 
 ## Usage
 
