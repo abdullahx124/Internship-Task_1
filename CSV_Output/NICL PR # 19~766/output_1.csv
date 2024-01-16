@@ -1,0 +1,5 @@
+Line Item,Item Code,Item Name,WBS Element,Unit,Qty Demanded,Delivery Date,Last Reference Date,Last Reference No.
+10,1700013239,PVC Tube OD-6mm ID-4mm,,M,100.00,01.11.2023,103.05.2023,60000018 66
+20,1700000082,"PPVC Pipe OD: 6mm, ID: 4mm, Thickness: Zmm",,FT,330.00,01.11.2023,po.03.2023,46000074 59
+30,1700013326,IPVC Tube ID-8mm; OD-lmm,,FT,330.00,01.11.2023,16.12.2022,50000021 23
+40,1700000078,"PPVC Pipe OD: &mm, ID: 6mm, Thickness: 2mm",,FT,330.00,01.11.2023,103.05.2023,46000077 00
