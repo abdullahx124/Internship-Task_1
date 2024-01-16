@@ -14,7 +14,7 @@ This Python script is designed to extract table data from a PDF file and save it
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/pdf-to-csv-converter.git
+    git clone https://github.com/abdullahx124/Internship-Task_1.git
     cd pdf-to-csv-converter
     ```
 
